@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: orangered;
+}
+
+form {
+    width: 400px;
+}
+
+input {
+    width: 100%;
+    font-size: 30px;
+}
+ul {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+li {
+    color: #000;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background: #fff;
+    margin-top: 10px;
+    padding: 20px 0;
+}
